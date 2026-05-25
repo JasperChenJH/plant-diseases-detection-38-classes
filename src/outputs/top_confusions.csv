@@ -1,0 +1,21 @@
+﻿true_idx,pred_idx,true_class,pred_class,count
+7,9,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight,21
+30,21,Tomato___Late_blight,Potato___Late_blight,16
+9,7,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,11
+30,29,Tomato___Late_blight,Tomato___Early_blight,11
+11,12,Grape___Black_rot,Grape___Esca_(Black_Measles),10
+34,22,Tomato___Target_Spot,Potato___healthy,9
+34,33,Tomato___Target_Spot,Tomato___Spider_mites Two-spotted_spider_mite,9
+0,3,Apple___Apple_scab,Apple___healthy,8
+31,3,Tomato___Leaf_Mold,Apple___healthy,7
+28,35,Tomato___Bacterial_spot,Tomato___Tomato_Yellow_Leaf_Curl_Virus,5
+1,0,Apple___Black_rot,Apple___Apple_scab,4
+4,2,Blueberry___healthy,Apple___Cedar_apple_rust,4
+16,3,Peach___Bacterial_spot,Apple___healthy,4
+8,7,Corn_(maize)___Common_rust_,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,3
+18,19,"Pepper,_bell___Bacterial_spot","Pepper,_bell___healthy",3
+19,2,"Pepper,_bell___healthy",Apple___Cedar_apple_rust,3
+24,22,Soybean___healthy,Potato___healthy,3
+28,29,Tomato___Bacterial_spot,Tomato___Early_blight,3
+29,21,Tomato___Early_blight,Potato___Late_blight,3
+29,28,Tomato___Early_blight,Tomato___Bacterial_spot,3

@@ -1,0 +1,13 @@
+*.ipynb
+*.pth
+*.pt
+*.h5
+*.onnx
+*.pkl
+*.zip
+*.rar
+*.7z
+data/
+dataset/
+__pycache__/
+.ipynb_checkpoints/
