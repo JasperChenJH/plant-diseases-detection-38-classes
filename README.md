@@ -10,7 +10,9 @@
 <p align="center">
   <img src="./plaincnn_vgg_style_architecture.png" width="850" alt="PlainCNN 模型结构图">
 </p>
+
 ---
+
 ## 项目亮点
 
 * **38 类作物病害识别**：覆盖苹果、玉米、葡萄、番茄、马铃薯、辣椒、草莓等多种作物的健康与病害类别。
