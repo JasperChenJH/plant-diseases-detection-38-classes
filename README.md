@@ -8,7 +8,7 @@
 ## 模型结构图
 
 <p align="center">
-  <img src="./plaincnn_vgg_style_architecture.png" width="850" alt="PlainCNN 模型结构图">
+  <img src="./模型结构图.png" width="850" alt="PlainCNN 模型结构图">
 </p>
 
 ---
