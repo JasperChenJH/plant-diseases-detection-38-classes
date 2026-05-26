@@ -137,31 +137,18 @@ src/model.py
 
 项目会生成混淆矩阵图片，用于分析不同类别之间的误判关系：
 
-src/outputs/confusion_matrix.png
 <p align="center">
   <img src="src/outputs/confusion_matrix.png" width="850" alt="混淆矩阵图片">
 </p>
 
 
-如果仓库中已包含该图片，可在 README 中展示：
-
-```markdown
-![Confusion Matrix](src/outputs/confusion_matrix.png)
-```
-
 ### Grad-CAM 热力图
 
 项目支持使用 Grad-CAM 生成模型关注区域热力图：
 
-```text
-src/outputs/grad_cam_result.jpg
-```
-
-如果仓库中已包含该图片，可在 README 中展示：
-
-```markdown
-![Grad-CAM Result](src/outputs/grad_cam_result.jpg)
-```
+<p align="center">
+  <img src="src/outputs/grad_cam_result.jpg" width="850" alt="混淆矩阵图片">
+</p>
 
 Grad-CAM 可以帮助观察模型是否真正关注叶片病斑区域，而不是背景、边缘或无关噪声。
 
