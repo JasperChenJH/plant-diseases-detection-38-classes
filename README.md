@@ -137,9 +137,11 @@ src/model.py
 
 项目会生成混淆矩阵图片，用于分析不同类别之间的误判关系：
 
-```text
 src/outputs/confusion_matrix.png
-```
+<p align="center">
+  <img src="src/outputs/confusion_matrix.png" width="850" alt="混淆矩阵图片">
+</p>
+
 
 如果仓库中已包含该图片，可在 README 中展示：
 
